@@ -1,0 +1,234 @@
+[ 2016-09-04T13:45:35+08:00 ] 127.0.0.1 /index.php/Home/Travel/xieyouji
+ERR: 无法加载控制器:Travel
+
+[ 2016-09-04T13:46:27+08:00 ] 127.0.0.1 /index.php/Home/Indexl/index
+ERR: 无法加载控制器:Indexl
+
+[ 2016-09-04T13:48:53+08:00 ] 127.0.0.1 /index.php/Home/Travel/xieyouji
+ERR: 模板不存在:./Application/Home/View/Travel/xieyouji.html
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:49:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:12+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:14+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:16+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:17+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/0c03f505b7
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:18+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/nr-974.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:19+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/index.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:19+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/ga.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:19+08:00 ] 127.0.0.1 /index.php/Home/Travel/css/application.css
+ERR: 非法操作:css
+
+[ 2016-09-04T13:53:19+08:00 ] 127.0.0.1 /index.php/Home/Travel/js/application.js
+ERR: 非法操作:js
+
+[ 2016-09-04T13:53:19+08:00 ] 127.0.0.1 /index.php/Home/Travel/image/xieyouji/swfupload-ad9bb5697bc723dd080ee0f51be90c7f.swf
+ERR: 非法操作:image
+

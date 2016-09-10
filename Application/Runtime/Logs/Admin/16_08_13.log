@@ -1,0 +1,71 @@
+[ 2016-08-13T16:26:25+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2016-08-13T16:36:39+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2016-08-13T16:36:40+08:00 ] 127.0.0.1 /index.php/Admin/Index/info-mgt.html
+ERR: 非法操作:info-mgt
+
+[ 2016-08-13T16:43:22+08:00 ] 127.0.0.1 /index.php/Admin/Index/add
+ERR: 非法操作:add
+
+[ 2016-08-13T16:44:32+08:00 ] 127.0.0.1 /index.php/Admin/user/add.html
+ERR: 模板不存在:./Application/Admin/View/User/add.html
+
+[ 2016-08-13T16:50:49+08:00 ] 127.0.0.1 /index.php/Admin/user/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-13T16:50:50+08:00 ] 127.0.0.1 /index.php/Admin/user/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-13T16:57:48+08:00 ] 127.0.0.1 /index.php/Admin/User/addOk
+ERR: 1364:Field 'username' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_user` (`addtime`) VALUES ('1471078668')
+
+[ 2016-08-13T16:59:27+08:00 ] 127.0.0.1 /index.php/Admin/user/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-13T17:01:13+08:00 ] 127.0.0.1 /index.php/Admin/User/addOk
+ERR: 1364:Field 'username' doesn't have a default value
+ [ SQL语句 ] : INSERT INTO `tp_user` (`addtime`) VALUES ('1471078872')
+
+[ 2016-08-13T17:04:23+08:00 ] 127.0.0.1 /index.php/Admin/user/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-13T17:10:53+08:00 ] 127.0.0.1 /index.php/Admin/User/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-13T19:04:23+08:00 ] 127.0.0.1 /index.php/Admin/User/charts
+ERR: 非法操作:charts
+
+[ 2016-08-13T20:17:53+08:00 ] 127.0.0.1 /index.php/Admin/User/del/ids/22
+ERR: 非法操作:del
+
+[ 2016-08-13T20:21:52+08:00 ] 127.0.0.1 /index.php/Admin/User/del/ids/22
+ERR: 非法操作:del
+
+[ 2016-08-13T21:26:38+08:00 ] 127.0.0.1 /index.php/Admin/User/del/ids/22
+ERR: 非法操作:del
+
+[ 2016-08-13T21:27:38+08:00 ] 127.0.0.1 /index.php/Admin/User/del/ids/22
+ERR: 非法操作:del
+
+[ 2016-08-13T22:03:21+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-13T22:04:07+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-13T22:08:52+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-13T22:11:33+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-13T22:12:06+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-13T22:12:55+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+

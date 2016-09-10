@@ -1,0 +1,87 @@
+[ 2016-08-14T07:47:20+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-14T16:41:22+08:00 ] 127.0.0.1 /index.php/Admin/User/edit;
+ERR: 非法操作:edit;
+
+[ 2016-08-14T16:49:38+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:49:40+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:49:41+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:50:24+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:50:25+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:50:25+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:52:41+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T16:56:36+08:00 ] 127.0.0.1 /index.php/Admin/Doc/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-14T17:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:15:26+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:15:43+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:15:43+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:16:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:16:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:16:40+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:16:41+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:16:48+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:19:06+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:22:10+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:23:24+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T17:24:44+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T18:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T18:23:14+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T19:07:29+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T19:48:05+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T19:48:39+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-14T20:09:41+08:00 ] 127.0.0.1 /index.php/Admin/Doc/getContent/id/6
+ERR: 非法操作:getContent
+

@@ -1,0 +1,56 @@
+[ 2016-08-15T17:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-15T17:07:05+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-15T17:07:07+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-15T17:07:08+08:00 ] 127.0.0.1 /index.php/Admin/Doc/lang/zh-cn/zh-cn.js
+ERR: 非法操作:lang
+
+[ 2016-08-15T17:10:33+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 非法操作:edit
+
+[ 2016-08-15T17:12:00+08:00 ] 127.0.0.1 /index.php/Admin/Doc/edit/id/1
+ERR: 模板不存在:./Application/Admin/View/Doc/edit.html
+
+[ 2016-08-15T18:35:50+08:00 ] 127.0.0.1 /index.php/Admin/konwledge/showList.html
+ERR: 无法加载控制器:Konwledge
+
+[ 2016-08-15T18:35:52+08:00 ] 127.0.0.1 /index.php/Admin/konwledge/add.html
+ERR: 无法加载控制器:Konwledge
+
+[ 2016-08-15T18:38:40+08:00 ] 127.0.0.1 /index.php/Admin/konwledge/add.html
+ERR: 无法加载控制器:Konwledge
+
+[ 2016-08-15T18:38:44+08:00 ] 127.0.0.1 /index.php/Admin/konwledge/add.html
+ERR: 无法加载控制器:Konwledge
+
+[ 2016-08-15T18:39:24+08:00 ] 127.0.0.1 /index.php/Admin/knowledge/add.html
+ERR: 模板不存在:./Application/Admin/View/Knowledge/add.html
+
+[ 2016-08-15T19:00:37+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T19:10:35+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/showList.html
+ERR: 非法操作:showList
+
+[ 2016-08-15T19:54:49+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/2
+ERR: 非法操作:edit
+
+[ 2016-08-15T19:55:42+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/edit/id/1
+ERR: 模板不存在:./Application/Admin/View/Knowledge/edit.html
+
+[ 2016-08-15T20:13:18+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/editOk
+ERR: 非法操作:editOk
+
+[ 2016-08-15T21:50:45+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/editOk
+ERR: 1062:Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tp_knowledge` (`title`,`id`,`author`,`description`,`content`,`picture`,`thumb`,`addtime`) VALUES ('PHP高手之路','1','王永辉','如何快速成为一名PHP大神','先把键盘敲烂再说吧哈哈哈哈','/Public/Upload/2016-08-15/57b1c8b546e3c.jpeg','/Public/Upload/2016-08-15/thumb_57b1c8b546e3c.jpeg','1471269045')
+
+[ 2016-08-15T21:52:17+08:00 ] 127.0.0.1 /index.php/Admin/Knowledge/editOk
+ERR: 1062:Duplicate entry '1' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `tp_knowledge` (`title`,`id`,`author`,`description`,`content`,`picture`,`thumb`,`addtime`) VALUES ('PHP高手之路','1','王永辉','如何快速成为一名PHP大神','先把键盘敲烂再说吧哈哈哈哈','/Public/Upload/2016-08-15/57b1c911aace3.jpeg','/Public/Upload/2016-08-15/thumb_57b1c911aace3.jpeg','1471269137')
+
